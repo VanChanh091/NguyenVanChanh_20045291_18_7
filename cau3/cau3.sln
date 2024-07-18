@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cau3", "cau3\cau3.csproj", "{73F97A04-773C-402E-BC97-2AC7F21BD2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cau3_test", "cau3_test\cau3_test.csproj", "{D73CC206-8D73-4638-BCA2-5DE76C6735CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F97A04-773C-402E-BC97-2AC7F21BD2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F97A04-773C-402E-BC97-2AC7F21BD2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F97A04-773C-402E-BC97-2AC7F21BD2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F97A04-773C-402E-BC97-2AC7F21BD2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73CC206-8D73-4638-BCA2-5DE76C6735CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73CC206-8D73-4638-BCA2-5DE76C6735CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73CC206-8D73-4638-BCA2-5DE76C6735CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73CC206-8D73-4638-BCA2-5DE76C6735CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC1FD0F-BAE9-4203-B3C3-8EB5569C99F1}
+	EndGlobalSection
+EndGlobal

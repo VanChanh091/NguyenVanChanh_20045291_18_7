@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\20045291\\KiemThu\\BT_Tuan\\BTdataDriven\\cau2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3FCA11-411F-4E4F-AE7C-91A970B28839}|Cau2_test\\Cau2_test.csproj|d:\\20045291\\kiemthu\\bt_tuan\\btdatadriven\\cau2\\cau2_test\\data\\datadriven.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A3FCA11-411F-4E4F-AE7C-91A970B28839}|Cau2_test\\Cau2_test.csproj|solutionrelative:cau2_test\\data\\datadriven.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3FCA11-411F-4E4F-AE7C-91A970B28839}|Cau2_test\\Cau2_test.csproj|d:\\20045291\\kiemthu\\bt_tuan\\btdatadriven\\cau2\\cau2_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3FCA11-411F-4E4F-AE7C-91A970B28839}|Cau2_test\\Cau2_test.csproj|solutionrelative:cau2_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D11604DC-D3E6-4194-807A-C587FFB71CAF}|cau2\\cau2.csproj|d:\\20045291\\kiemthu\\bt_tuan\\btdatadriven\\cau2\\cau2\\classcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D11604DC-D3E6-4194-807A-C587FFB71CAF}|cau2\\cau2.csproj|solutionrelative:cau2\\classcau2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dataDriven.csv",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BTdataDriven\\cau2\\Cau2_test\\data\\dataDriven.csv",
+              "RelativeDocumentMoniker": "Cau2_test\\data\\dataDriven.csv",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BTdataDriven\\cau2\\Cau2_test\\data\\dataDriven.csv",
+              "RelativeToolTip": "Cau2_test\\data\\dataDriven.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-18T15:21:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassCau2.cs",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BTdataDriven\\cau2\\cau2\\ClassCau2.cs",
+              "RelativeDocumentMoniker": "cau2\\ClassCau2.cs",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BTdataDriven\\cau2\\cau2\\ClassCau2.cs",
+              "RelativeToolTip": "cau2\\ClassCau2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:20:51.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\20045291\\KiemThu\\BT_Tuan\\BTdataDriven\\cau2\\Cau2_test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Cau2_test\\UnitTest1.cs",
+              "ToolTip": "D:\\20045291\\KiemThu\\BT_Tuan\\BTdataDriven\\cau2\\Cau2_test\\UnitTest1.cs",
+              "RelativeToolTip": "Cau2_test\\UnitTest1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T15:19:33.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

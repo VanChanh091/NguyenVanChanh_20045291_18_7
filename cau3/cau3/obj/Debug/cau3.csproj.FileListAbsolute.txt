@@ -1,0 +1,7 @@
+D:\20045291\KiemThu\BT_Tuan\BTdataDriven\cau3\cau3\bin\Debug\cau3.exe.config
+D:\20045291\KiemThu\BT_Tuan\BTdataDriven\cau3\cau3\bin\Debug\cau3.exe
+D:\20045291\KiemThu\BT_Tuan\BTdataDriven\cau3\cau3\bin\Debug\cau3.pdb
+D:\20045291\KiemThu\BT_Tuan\BTdataDriven\cau3\cau3\obj\Debug\cau3.csproj.AssemblyReference.cache
+D:\20045291\KiemThu\BT_Tuan\BTdataDriven\cau3\cau3\obj\Debug\cau3.csproj.CoreCompileInputs.cache
+D:\20045291\KiemThu\BT_Tuan\BTdataDriven\cau3\cau3\obj\Debug\cau3.exe
+D:\20045291\KiemThu\BT_Tuan\BTdataDriven\cau3\cau3\obj\Debug\cau3.pdb
